@@ -1,0 +1,8 @@
+{
+  "name": "maatwerk-scaffold-plugin",
+  "description": "Scaffold a new maatwerk project with Turborepo monorepo structure",
+  "version": "1.0.0",
+  "author": {
+    "name": "TwoRocks"
+  }
+}

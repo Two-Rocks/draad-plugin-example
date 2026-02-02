@@ -1,0 +1,31 @@
+{
+  "name": "tworocks-plugins",
+  "owner": {
+    "name": "TwoRocks",
+    "email": "info@tworocks.nl"
+  },
+  "metadata": {
+    "description": "TwoRocks plugin marketplace for development tools and scaffolding",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "maatwerk-scaffold",
+      "source": ".",
+      "description": "Scaffold a new maatwerk project with Turborepo monorepo structure, Express/Hono backend, and Next.js frontend",
+      "version": "1.0.0",
+      "author": {
+        "name": "TwoRocks"
+      },
+      "category": "scaffolding",
+      "tags": [
+        "monorepo",
+        "turborepo",
+        "nextjs",
+        "express",
+        "hono",
+        "typescript"
+      ]
+    }
+  ]
+}
